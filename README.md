@@ -25,10 +25,10 @@ I am the Research Software Community Manager at the Software Sustainability Inst
 <a href="https://www.meetup.com/herplusdatamcr/"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/meetup.svg" /></a>
 
 ### Recent activity
+<img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110)  
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE's Guide to using virtual events to facilitate community building: Curated resources](https://doi.org/10.5281/zenodo.4270105)  
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE's Guide to using virtual events to facilitate community building: Event formats](https://doi.org/10.5281/zenodo.3934385)  
-<img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [SSI's Guidance for running online training](https://doi.org/10.5281/zenodo.3923948)  
-<img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Best Practices in Online Training: The SSI's Experiences and Lessons Learned](https://doi.org/10.6084/m9.figshare.12631118)  
+<img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [SSI's Guidance for running online training](https://doi.org/10.5281/zenodo.3923948)    
 <img src="https://img.icons8.com/material-outlined/20/000000/github.png"/> [softwaresaved/event-organisation-guide](https://github.com/softwaresaved/event-organisation-guide)  
 <img src="https://img.icons8.com/material-outlined/20/000000/github.png"/> [rainsworth/intro-to-github](https://github.com/rainsworth/intro-to-github)  
 
@@ -44,6 +44,7 @@ You can hear me talk about my work on the following podcasts:
 ### 📺 Watch
 
 You can watch me talk about my work in the following videos:
+- [ESCAPE Summer School 2021: Keynote on Reproducibility and Open Science](https://youtu.be/TkIZ4FIGfBc)
 - [Bluedot Festival 2019: The Violent Birth of Stars](https://youtu.be/914KncrM6PM)
 - [TEDxMacclesfield: Research Culture is Broken; Open Science can Fix It](https://youtu.be/c-bemNZ-IqA)
 - [Open Science MOOC: Making sense of your Open Access opportunities](https://youtu.be/geydm_0jDzM)
