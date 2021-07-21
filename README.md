@@ -26,9 +26,9 @@ I am the Research Software Community Manager at the Software Sustainability Inst
 
 ### Recent activity
 <img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110)  
+<img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE Community Profile: Software Sustainability Institute Research Software Community](https://doi.org/10.5281/zenodo.4947235)    
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE's Guide to using virtual events to facilitate community building: Curated resources](https://doi.org/10.5281/zenodo.4270105)  
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE's Guide to using virtual events to facilitate community building: Event formats](https://doi.org/10.5281/zenodo.3934385)  
-<img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [SSI's Guidance for running online training](https://doi.org/10.5281/zenodo.3923948)    
 <img src="https://img.icons8.com/material-outlined/20/000000/github.png"/> [softwaresaved/event-organisation-guide](https://github.com/softwaresaved/event-organisation-guide)  
 <img src="https://img.icons8.com/material-outlined/20/000000/github.png"/> [rainsworth/intro-to-github](https://github.com/rainsworth/intro-to-github)  
 
