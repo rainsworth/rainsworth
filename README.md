@@ -25,6 +25,7 @@ I am the Research Software Community Manager at the Software Sustainability Inst
 <a href="https://www.meetup.com/herplusdatamcr/"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/meetup.svg" /></a>
 
 ### Recent activity
+<img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Incentivising sustainable and collaborative research](https://doi.org/10.6084/m9.figshare.14986890)
 <img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110)  
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE Community Profile: Software Sustainability Institute Research Software Community](https://doi.org/10.5281/zenodo.4947235)    
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE's Guide to using virtual events to facilitate community building: Curated resources](https://doi.org/10.5281/zenodo.4270105)  
@@ -44,6 +45,7 @@ You can hear me talk about my work on the following podcasts:
 ### 📺 Watch
 
 You can watch me talk about my work in the following videos:
+- [OAI12: Changing times, challenging norms: How are changes in research practice re-shaping our thinking about what research integrity should be?](https://vimeo.com/588305806)
 - [ESCAPE Summer School 2021: Keynote on Reproducibility and Open Science](https://youtu.be/TkIZ4FIGfBc)
 - [Bluedot Festival 2019: The Violent Birth of Stars](https://youtu.be/914KncrM6PM)
 - [TEDxMacclesfield: Research Culture is Broken; Open Science can Fix It](https://youtu.be/c-bemNZ-IqA)
