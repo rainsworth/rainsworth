@@ -25,7 +25,7 @@ I am the Research Software Community Manager at the Software Sustainability Inst
 <a href="https://www.meetup.com/herplusdatamcr/"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/meetup.svg" /></a>
 
 ### Recent activity
-<img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Incentivising sustainable and collaborative research](https://doi.org/10.6084/m9.figshare.14986890)
+<img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Incentivising sustainable and collaborative research](https://doi.org/10.6084/m9.figshare.14986890)  
 <img src="https://img.icons8.com/material-outlined/20/000000/presentation.png"/> [Reproducibility and Open Science](https://doi.org/10.6084/m9.figshare.14710110)  
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE Community Profile: Software Sustainability Institute Research Software Community](https://doi.org/10.5281/zenodo.4947235)    
 <img src="https://img.icons8.com/material-outlined/20/000000/document.png"/> [CSCCE's Guide to using virtual events to facilitate community building: Curated resources](https://doi.org/10.5281/zenodo.4270105)  
