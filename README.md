@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am the Research Software Community Manager at the Software Sustainability Institute, managing the Institute's Fellowship Programme and Collaborations Workshop series. I am passionate about openness, collaboration, transparency, reproducibility, wellbeing and inclusion in STEM and research more broadly. I also organise HER+Data MCR, a community working to connect, inspire, support and empower the NW UK’s Women in Data.
+I am a Product Manager for Data Services at KrakenFlex (Octopus Energy Group). I value collaboration, community, openness, wellbeing and inclusion. I also founded the Manchester chapter of HER+Data, a community working to connect, inspire, support and empower the NW UK’s Women in Data.
 
 <a href="https://rainsworth.github.io/"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/icloud.svg" /></a>
 <a href="https://twitter.com/rachaelevelyn"><img height="20" width="20" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" /></a>
